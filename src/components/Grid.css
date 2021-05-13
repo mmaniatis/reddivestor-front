@@ -1,0 +1,15 @@
+.content-container {
+    width:95%;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+#coinMarketLink {
+    text-decoration: none;
+    color:#e5e5e5;
+    color:white;
+}
+
+#coinMarketLink:hover {
+    color:#3F51B5;
+  }
